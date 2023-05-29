@@ -1,2 +1,2 @@
-# Sales-Performance-Dashboard-using-Power-BI
+# Power-BI Dashboards
 Developed a comprehensive sales performance dashboard for a retail company using Power BI. The dashboard incorporated data from multiple sources, including sales transactions, customer demographics, and product inventory. Implemented various visualizations and interactive features to provide actionable insights on sales trends, customer segmentation, and product performance. Collaborated with cross-functional teams to gather requirements, design the data model, and create compelling visualizations.
