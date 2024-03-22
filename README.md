@@ -1,2 +1,3 @@
 # Power-BI Dashboards
-Developed a comprehensive sales performance dashboard for a retail company using Power BI. The dashboard incorporated data from multiple sources, including sales transactions, customer demographics, and product inventory. Implemented various visualizations and interactive features to provide actionable insights on sales trends, customer segmentation, and product performance. Collaborated with cross-functional teams to gather requirements, design the data model, and create compelling visualizations.
+Developed a comprehensive sales performance and HR Analytics dashboard using Power BI. 
+This project analyzes employee attrition rates and related factors impacting organizational growth. Steps include data extraction, transforming data using Power Query, loading into Power BI, implementing DAX functions for calculations, defining KPIs like employee count and average age, and visualizing insights through a compelling dashboard.
